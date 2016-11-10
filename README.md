@@ -11,3 +11,5 @@ Bill of material
 * potentiometer (10K)
 
 Total cost approximately $16-$20
+
+Code requires KTMS1201 library by MCUdude (I am using version 1.0.1 that was installed through the Arduino IDE)
